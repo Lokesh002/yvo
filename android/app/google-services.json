@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228820621457",
+    "firebase_url": "https://yvoservice-29ba0.firebaseio.com",
+    "project_id": "yvoservice-29ba0",
+    "storage_bucket": "yvoservice-29ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228820621457:android:f4ee3bcffba79d5d9d0730",
+        "android_client_info": {
+          "package_name": "com.yvoservice.yvo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228820621457-v06cbv1k9e88361loj3t5lc175a85jd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvk8Z6rZxt7L1I1PkRd_3M1MzXhIW_zqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228820621457-v06cbv1k9e88361loj3t5lc175a85jd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
